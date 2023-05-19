@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e8fe03-0f2f-42b5-8a28-c912ea755b0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xrIvJSWgjCIi5U1uazcSJnFbBc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/graphSummary" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenSourceSystem-Code\RDF-Sum2\src\graphSummary" />
+      <recent name="D:\OpenSourceSystem-Code\RDF-Sum2\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GraphSummary">
+    <configuration name="GraphSummary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphSummary.GraphSummary" />
+      <module name="RDF-Sum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graphSummary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedySummary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="graphSummary.GreedySummary" />
+      <module name="RDF-Sum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graphSummary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraphSummary" />
+        <item itemvalue="Application.GreedySummary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e8fe03-0f2f-42b5-8a28-c912ea755b0f" name="Default Changelist" comment="" />
+      <created>1631107012885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631107012885</updated>
+      <workItem from="1633758791615" duration="6112000" />
+      <workItem from="1633866825043" duration="7183000" />
+      <workItem from="1634002576250" duration="5929000" />
+      <workItem from="1634020255688" duration="376000" />
+      <workItem from="1634027243386" duration="5961000" />
+      <workItem from="1634181943263" duration="14000" />
+      <workItem from="1635308265299" duration="6238000" />
+      <workItem from="1635404437447" duration="4941000" />
+      <workItem from="1635486262071" duration="1653000" />
+      <workItem from="1635678682127" duration="8283000" />
+      <workItem from="1635753310666" duration="1816000" />
+      <workItem from="1635828619434" duration="9377000" />
+      <workItem from="1635942276378" duration="25804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634092269389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1634092269389" />
+    <state x="341" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635406984597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1635406984597" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1635837862809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1635837862809" />
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1633759112109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1633759112109" />
+    <state x="357" y="104" key="FileChooserDialogImpl" timestamp="1634092146993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1634092146993" />
+    <state width="1323" height="556" key="GridCell.Tab.0.bottom" timestamp="1636183908764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="556" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636183908764" />
+    <state width="1323" height="556" key="GridCell.Tab.0.center" timestamp="1636183908764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="556" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1636183908764" />
+    <state width="1323" height="556" key="GridCell.Tab.0.left" timestamp="1636183908763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="556" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1636183908763" />
+    <state width="1323" height="556" key="GridCell.Tab.0.right" timestamp="1636183908764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="556" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1636183908764" />
+    <state width="1323" height="349" key="GridCell.Tab.1.bottom" timestamp="1636170756688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="349" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636170756688" />
+    <state width="1323" height="349" key="GridCell.Tab.1.center" timestamp="1636170756687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="349" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1636170756687" />
+    <state width="1323" height="349" key="GridCell.Tab.1.left" timestamp="1636170756687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="349" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1636170756687" />
+    <state width="1323" height="349" key="GridCell.Tab.1.right" timestamp="1636170756687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="349" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1636170756687" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1633866907208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1633866907208" />
+    <state x="95" y="0" key="SettingsEditor" timestamp="1634092756740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="95" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1634092756740" />
+    <state x="210" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1634093025591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1634093025591" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graphSummary/GreedySummary.java</url>
+          <line>625</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.TreeMap$Entry" memberName="key" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
